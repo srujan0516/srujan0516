@@ -7,7 +7,7 @@
 ### Final-Year CSE Student @ GRIET | Java Developer | Web & AI Project Builder
 
 <p>
-  <a href="https://portfolio-eight-henna-37.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://portfolio-eight-henna-37.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D9488?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
   <a href="https://leetcode.com/u/G2lYT6OPhC/"><img src="https://img.shields.io/badge/LeetCode-600%2B%20DSA%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
