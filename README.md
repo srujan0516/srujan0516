@@ -9,7 +9,6 @@
 <p>
   <a href="https://portfolio-eight-henna-37.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://leetcode.com/u/G2lYT6OPhC/"><img src="https://img.shields.io/badge/LeetCode-600%2B%20DSA%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://github.com/srujan0516"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 </div>
@@ -105,15 +104,13 @@ A real-time collaborative workspace for creating and managing notes, images, and
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always happy to connect with developers, collaborate on interesting ideas, and explore software engineering opportunities.
+## 🔗 Links
 
 <p align="center">
   <a href="https://portfolio-eight-henna-37.vercel.app/">Portfolio</a> ·
-  <a href="https://leetcode.com/u/G2lYT6OPhC/">LeetCode</a> ·
-  <a href="https://www.instagram.com/saisrujan_11/">Instagram</a>
+  <a href="https://leetcode.com/u/G2lYT6OPhC/">LeetCode</a>
 </p>
+
 
 <div align="center">
 
